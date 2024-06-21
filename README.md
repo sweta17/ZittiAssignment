@@ -20,13 +20,10 @@ Follow the steps below to clone and run the ZittiBot project on your local machi
 
 ### Installation
 
-1. **Clone the Repository**
+1. ** Unzip the project **
 
    Open your terminal or command prompt and run the following command to clone the repository:
 
-    ```bash
-    git clone https://github.com/sweta17/ZittiAssignment.git
-    ```
 
    Navigate into the project directory:
 
