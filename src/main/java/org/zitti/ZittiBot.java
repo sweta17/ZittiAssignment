@@ -1,4 +1,4 @@
-package org.example;
+package org.zitti;
 
 import java.util.*;
 import java.util.regex.*;
